@@ -1,4 +1,4 @@
-## Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored:
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -7,23 +7,30 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm:
-
-1. Start the program.
-2. To implement the linear regression using the standard libraries in the python.
-3. Use slicing function() for the x,y values.
-4. Using sklearn library import training , testing and linear regression modules.
-5. Predict the value for the y.
-6. Using matplotlib library plot the graphs.
-7. Use xlabel for hours and ylabel for scores.
-8. End the porgram.
+## Algorithm
+## Step 1.
+Start the program.
+## Step 2.
+To implement the linear regression using the standard libraries in the python.
+## Step 3.
+Use slicing function() for the x,y values.
+## Step 4.
+Using sklearn library import training , testing and linear regression modules.
+## Step 5.
+Predict the value for the y.
+## Step 6.
+Using matplotlib library plot the graphs.
+## Step 7.
+Use xlabel for hours and ylabel for scores.
+## Step 8.
+End the porgram.
 
 ## Program:
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: BALAJI S
-RegisterNumber: 212223040024
+RegisterNumber:  212223040024
 
 import numpy as np
 import pandas as pd
@@ -54,17 +61,13 @@ plt.title("h vs s (Testing Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
 */
 ```
 
 ## Output:
-![Screenshot 2024-08-28 080724](https://github.com/user-attachments/assets/21d1728e-4b3e-4250-9a48-8ebc7df4b7d7)
+![Screenshot 2024-09-04 143806](https://github.com/user-attachments/assets/ecaaec3f-5c7f-464f-af9e-c192cfc998ca)
 
-![Screenshot 2024-08-28 080739](https://github.com/user-attachments/assets/2d68db98-d500-41ca-918e-daf1570507ad)
-
-
-
+![Screenshot 2024-09-04 143814](https://github.com/user-attachments/assets/e71037db-d3e1-4a05-8480-df07a7adb421)
 
 
 ## Result:
